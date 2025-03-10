@@ -21,7 +21,7 @@ const Page = () => {
           <div className="text-5xl font-extralight mt-2">Our Services</div>
         </div>
       </div>
-
+<div></div>
      
       <div className="h-screen w-full">
         <Amazing />
